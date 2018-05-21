@@ -1,0 +1,1 @@
+$(".headline").hide().slideDown(2800);
